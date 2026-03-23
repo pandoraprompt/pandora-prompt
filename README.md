@@ -30,10 +30,6 @@ This matters especially for professionals who handle confidential information â€
 
 Development happens on GitLab. This GitHub repository serves as a public mirror for visibility and discoverability. For the latest code, issues, and CI/CD, head to the GitLab project.
 
-## Tech philosophy
-
-This project follows the [Choose Boring Technology](https://boringtechnology.club) school of thought. Proven tools over trendy ones. Ship stuff, then iterate. Innovation tokens are spent on the product, not the infrastructure.
-
 ## Contact
 
 For collaboration, consulting inquiries, or partnership opportunities:
